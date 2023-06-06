@@ -13,4 +13,6 @@ Projekt "AirlineSystem" ma na celu stworzenie aplikacji, która umożliwi zarzą
 
 Projekt będzie rozwijany w języku programowania C#, wykorzystując framework .NET. Baza danych SQL zostanie wykorzystana do przechowywania i zarządzania informacjami. Projekt będzie zaimplementowany zgodnie z zasadami programowania obiektowego.
 
+## Diagram UML
 
+![Diagram UML](https://github.com/mkrzysiek24/AirlineSystem/assets/66188338/92595318-6363-49ff-812a-7be2a71d502f)
