@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AirlineSystem.Navigation">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERCAIgQAAyAgABAgAACAgIACCAgAgAAAAABQBSRAAAA=</HashCode>
+      <FileName>Navigation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="AirlineSystem.AircraftsScreen">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAQAAAACBAACAoAICAAUQGBAMBACAJgIECAJBACAA=</HashCode>
+      <FileName>AircraftsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.AirportsScreen">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoAEQiACADABAAAIAIKAAQxGAAEAACAAIIAgCIBIAAA=</HashCode>
+      <FileName>AirportsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.ConnectionsScreen">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggCAcIAACCIAACAIBCCQAQQGAAEABiAAEYAEAJBAAAQ=</HashCode>
+      <FileName>ConnectionsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.EmployeesScreen">
+    <Position X="18.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAQAAAACABAAAoAJCgAQQGAQlAICAAAJLABIBAACA=</HashCode>
+      <FileName>EmployeesScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.FlightsScreen">
+    <Position X="20.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlightsScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.HomeScreen">
+    <Position X="23" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERCAAgQAAyAgABAAAACAAIACCAgAgAAAgABQBSRAAAA=</HashCode>
+      <FileName>HomeScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineSystem.PassengersScreen">
+    <Position X="25.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IwEAUAAAADAEAAQKAACAAQQGAAEAACAAAoAAAZRAJII=</HashCode>
+      <FileName>PassengersScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
