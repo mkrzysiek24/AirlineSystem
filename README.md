@@ -2,18 +2,9 @@
 
 ## Opis projektu
 
+The aim of the project was to create an application to manage basic air operations. It includes functions such as passenger data management, flight management (create, edit and cancel), ticket booking, crew and aircraft management and a user-friendly interface for intuitive navigation. Developed using the C# programming language and .NET platform, with SQL database for data storage.
 
-Projekt "AirlineSystem" ma na celu stworzenie aplikacji, która umożliwi zarządzanie podstawowymi operacjami lini lotniczych. 
-
-1. Dodawanie i zarządzanie danymi pasażerów: System umożliwi rejestrację nowych pasażerów oraz przechowywanie ich danych osobowych.
-2. Zarządzanie lotami: System będzie umożliwiał tworzenie nowych lotów, edycję istniejących oraz anulowanie lotów w razie konieczności.
-4. Rezerwacje biletów: System będzie umożliwiał dokonywanie rezerwacji.
-5. Zarządzanie załogami i samolotami: System będzie śledził informacje o załogach lotniczych oraz dane dotyczące floty samolotów.
-6. Interfejs użytkownika: System będzie posiadał przyjazny interfejs użytkownika, umożliwiający łatwą i intuicyjną nawigację po funkcjonalnościach.
-
-Projekt będzie rozwijany w języku programowania C#, wykorzystując framework .NET. Baza danych SQL zostanie wykorzystana do przechowywania i zarządzania informacjami. Projekt będzie zaimplementowany zgodnie z zasadami programowania obiektowego.
-
-## Screens
+## User Interface
 
 ### HomeScreen
 ![HomeScreen](https://github.com/mkrzysiek24/AirlineSystem/assets/66188338/d08bfa48-548e-4f0b-af29-e98565d478ec)
@@ -31,6 +22,3 @@ Projekt będzie rozwijany w języku programowania C#, wykorzystując framework .
 ![EmployeesScreen](https://github.com/mkrzysiek24/AirlineSystem/assets/66188338/2e9842c2-8d51-48bc-9259-648a2da9daf9)
 ### ReservationsScreen
 ![ReservationsScreen](https://github.com/mkrzysiek24/AirlineSystem/assets/66188338/2ae5a335-6ea6-4b39-a99e-0ef778a08923)
-## Diagram UML
-
-![Diagram UML](https://github.com/mkrzysiek24/AirlineSystem/assets/66188338/92595318-6363-49ff-812a-7be2a71d502f)
